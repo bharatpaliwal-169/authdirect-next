@@ -64,3 +64,11 @@ git branch -M main
 git remote add origin https://github.com/bharatpaliwal-169/authdirect-next.git
 git push -u origin main
 ```
+
+Theme in next.
+https://www.youtube.com/watch?v=optD7ns4ISQ
+
+
+'./pages/**/*.{js,ts,jsx,tsx,mdx}',
+'./components/**/*.{js,ts,jsx,tsx,mdx}',
+'./app/**/*.{js,ts,jsx,tsx,mdx}',
